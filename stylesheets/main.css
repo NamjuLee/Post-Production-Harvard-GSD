@@ -1,0 +1,56 @@
+.top{
+    
+    background: white !important;
+    border: 0px !important;
+    box-shadow: 0 !important;
+    webkit-box-shadow: 0 !important;
+}
+
+#img{
+     text-shadow: #fff 0px 0px 10px !important;     
+}
+
+#project_tagline {
+    text : black !important;
+    color:dimgray;
+    text-shadow: #fff 0px 0px 10px !important;   
+    
+}
+#project_title{
+    text : black !important;
+    color:dimgray;
+    text-shadow: #fff 0px 0px 10px !important;   
+    
+}
+
+#introText{
+    color:gray!important;
+    font-weight: 100
+    
+}
+
+#video{
+    background: lightgray;
+    padding-bottom: 13px
+    
+}
+#content{
+/*    height: auto;*/
+/*    background: white;*/
+    width: 65% !important;
+    padding: 20px 10px 20px 15px;
+    text-align: left !important;
+
+
+        
+}
+.tab{
+/*    color: dar !important;*/
+    padding-left: 50px;
+/*    background : red;*/
+/*    text-indent: 50px !important;*/
+}
+h6{
+/*color:darkgray;*/
+    font-weight: 100;
+}
