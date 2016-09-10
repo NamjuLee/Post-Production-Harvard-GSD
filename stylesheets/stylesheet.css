@@ -72,12 +72,14 @@ h1 {
 }
 
 h2 {
+  color:darkcyan !important;
   padding-bottom: 10px;
   font-size: 32px;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
 h3 {
+  color:darkcyan !important;
   font-size: 24px;
 }
 
@@ -103,7 +105,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: dodgerblue !important;
+  color:darkcyan !important;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -279,8 +281,8 @@ Full-Width Styles
   right: 10px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
-  color: #fff !important;
-  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  color: #ffffff !important;
+  background: url('../images/blacktocat.png') darkcyan no-repeat 95% 50%;
   font-weight: 100;
 /*  box-shadow: 0 0 10px rgba(0,0,0,.5);*/
   border-bottom-left-radius: 2px;
