@@ -105,7 +105,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color:darkcyan !important;
+  color:dodgerblue !important;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -282,7 +282,7 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #ffffff !important;
-  background: url('../images/blacktocat.png') darkcyan no-repeat 95% 50%;
+  background: url('../images/blacktocat.png') dodgerblue no-repeat 95% 50%;
   font-weight: 100;
 /*  box-shadow: 0 0 10px rgba(0,0,0,.5);*/
   border-bottom-left-radius: 2px;
